@@ -99,13 +99,13 @@
       <Project>{dbc28821-2788-43bb-bab9-8820d5cd524b}</Project>
       <Name>CONTROL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DATA_ACCEST\DATA_ACCEST.csproj">
+    <ProjectReference Include="..\DATA_ACCEST\DATA_ACCESS.csproj">
       <Project>{7d6c7b6b-86d7-4655-8ea8-fd48341c7c23}</Project>
-      <Name>DATA_ACCEST</Name>
+      <Name>DATA_ACCESS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\MODAL\MODAL.csproj">
+    <ProjectReference Include="..\MODAL\MODEL.csproj">
       <Project>{4d385bc8-8127-4149-8918-d17bc30233c1}</Project>
-      <Name>MODAL</Name>
+      <Name>MODEL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MODAL.ENNITES
+namespace MODEL.ENTITIES
 
 {
     public class NHANVIEN

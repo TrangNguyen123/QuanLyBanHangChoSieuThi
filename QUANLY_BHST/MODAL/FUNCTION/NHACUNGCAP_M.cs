@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using DATA_ACCESS;
-using MODAL.ENNITES;
-namespace MODAL.FUNSIONS
+using MODEL.ENTITIES;
+namespace MODEL.FUNCTION
 {
     public class NHACUNGCAP_M
     {

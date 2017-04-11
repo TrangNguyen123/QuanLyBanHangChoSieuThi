@@ -64,9 +64,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DATA_ACCEST\DATA_ACCEST.csproj">
+    <ProjectReference Include="..\DATA_ACCEST\DATA_ACCESS.csproj">
       <Project>{7d6c7b6b-86d7-4655-8ea8-fd48341c7c23}</Project>
-      <Name>DATA_ACCEST</Name>
+      <Name>DATA_ACCESS</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup />

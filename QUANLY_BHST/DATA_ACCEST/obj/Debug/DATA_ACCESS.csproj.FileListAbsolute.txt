@@ -1,0 +1,4 @@
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\DATA_ACCEST\bin\Debug\DATA_ACCEST.dll
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\DATA_ACCEST\bin\Debug\DATA_ACCEST.pdb
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\DATA_ACCEST\obj\Debug\DATA_ACCEST.dll
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\DATA_ACCEST\obj\Debug\DATA_ACCEST.pdb

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using DATA_ACCESS;
-using MODAL.ENNITES;
-namespace MODAL.FUNSIONS
+using MODEL.ENTITIES;
+namespace MODEL.FUNCITON
 {
     public class HANGHOA_M
     {
@@ -61,7 +61,7 @@ namespace MODAL.FUNSIONS
 
             catch (Exception ex1)
             {
-                throw;
+                throw ex1;
             }
         }
         public bool Up_Obj(HANGHOA obj)
@@ -105,7 +105,7 @@ namespace MODAL.FUNSIONS
 
             catch (Exception ex1)
             {
-                throw;
+                throw ;
             }
         }
 
