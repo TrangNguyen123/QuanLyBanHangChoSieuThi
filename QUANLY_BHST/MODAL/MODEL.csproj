@@ -51,16 +51,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ENNITES\CHITIET_HDB.cs" />
-    <Compile Include="ENNITES\CHITIET_HDN.cs" />
-    <Compile Include="ENNITES\HANGHOA.cs" />
-    <Compile Include="ENNITES\HOADONBAN.cs" />
-    <Compile Include="ENNITES\HOADONNHAP.cs" />
-    <Compile Include="ENNITES\KHACHHANG.cs" />
-    <Compile Include="ENNITES\NHACUNGCAP.cs" />
-    <Compile Include="ENNITES\NHANVIEN.cs" />
-    <Compile Include="FUNSIONS\HANGHOA_M.cs" />
-    <Compile Include="FUNSIONS\NHACUNGCAP_M.cs" />
+    <Compile Include="ENTITIES\CHITIET_HDB.cs" />
+    <Compile Include="ENTITIES\CHITIET_HDN.cs" />
+    <Compile Include="ENTITIES\HANGHOA.cs" />
+    <Compile Include="ENTITIES\HOADONBAN.cs" />
+    <Compile Include="ENTITIES\HOADONNHAP.cs" />
+    <Compile Include="ENTITIES\KHACHHANG.cs" />
+    <Compile Include="ENTITIES\NHACUNGCAP.cs" />
+    <Compile Include="ENTITIES\NHANVIEN.cs" />
+    <Compile Include="FUNCTION\HANGHOA_M.cs" />
+    <Compile Include="FUNCTION\NHACUNGCAP_M.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
