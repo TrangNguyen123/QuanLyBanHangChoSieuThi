@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MODEL.ENTITIES;
-using MODEL.FUNCTION;
 using System.Data;
 using System.Data.SqlClient;
 using MODEL.FUNCITON;
