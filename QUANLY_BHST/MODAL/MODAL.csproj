@@ -59,6 +59,8 @@
     <Compile Include="ENNITES\KHACHHANG.cs" />
     <Compile Include="ENNITES\NHACUNGCAP.cs" />
     <Compile Include="ENNITES\NHANVIEN.cs" />
+    <Compile Include="FUNSIONS\HANGHOA_M.cs" />
+    <Compile Include="FUNSIONS\NHACUNGCAP_M.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -67,9 +69,7 @@
       <Name>DATA_ACCEST</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="FUNSIONS\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

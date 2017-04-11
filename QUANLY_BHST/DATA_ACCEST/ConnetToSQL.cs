@@ -32,7 +32,7 @@ namespace DATA_ACCESS
         #region  Contructor
         public ConnectToSQL()
         {
-            strconn = @"Data Source=ADMIN\SQLEXPRESS;Initial Catalog = QuanLyBHST; Integrated Security=True ";
+            strconn = @"Data Source=EliteBook\SQL2012;Initial Catalog = QuanLyBHST; Integrated Security=True ";
 
             sql_conn = new SqlConnection(strconn);
         }

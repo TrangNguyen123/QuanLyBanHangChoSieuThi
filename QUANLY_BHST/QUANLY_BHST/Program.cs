@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using QUANLY_BHST.VIEW;
 namespace QUANLY_BHST
 {
     static class Program
@@ -16,7 +16,7 @@ namespace QUANLY_BHST
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMain());
+            Application.Run(new FR_HANGHOA());
         }
     }
 }
