@@ -1,0 +1,9 @@
+E:\Visua stadio\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.csprojResolveAssemblyReference.cache
+E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\CONTROL.dll
+E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\CONTROL.pdb
+E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\MODAL.dll
+E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.dll
+E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\MODAL.pdb
+E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.pdb
+E:\Visua stadio\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.dll
+E:\Visua stadio\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.pdb

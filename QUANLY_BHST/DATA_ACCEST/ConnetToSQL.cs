@@ -27,7 +27,7 @@ namespace DATA_ACCESS
             get { return error; }
             set { error = value; }
         }
-        string strconn;
+       public static string strconn;
         #endregion
         #region  Contructor
         public ConnectToSQL()
@@ -70,6 +70,7 @@ namespace DATA_ACCESS
             }
             return true;
         }
+      
         #endregion
     }
 }
