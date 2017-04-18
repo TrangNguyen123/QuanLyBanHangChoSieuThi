@@ -1,0 +1,115 @@
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.config
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csprojResolveAssemblyReference.cache
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.FormMain.resources
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.Properties.Resources.resources
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.VIEW.FR_HANGHOA.resources
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.GenerateResource.Cache
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe.licenses
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.pdb
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\CONTROL.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DATA_ACCEST.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\MODAL.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\CONTROL.pdb
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DATA_ACCEST.pdb
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\MODAL.pdb
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
+E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.config
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.FormMain.resources
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.Properties.Resources.resources
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.VIEW.FR_HANGHOA.resources
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.GenerateResource.Cache
+C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe.licenses
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.config
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.pdb
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\CONTROL.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DATA_ACCEST.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\MODAL.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\CONTROL.pdb
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DATA_ACCEST.pdb
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\MODAL.pdb
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.FormMain.resources
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.VIEW.FR_HANGHOA.resources
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe.licenses
