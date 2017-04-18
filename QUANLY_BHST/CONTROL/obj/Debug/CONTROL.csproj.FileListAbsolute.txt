@@ -7,21 +7,3 @@ E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\MODAL.pdb
 E:\Visua stadio\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.pdb
 E:\Visua stadio\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.dll
 E:\Visua stadio\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.pdb
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\CONTROL.dll
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\CONTROL.pdb
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\MODAL.dll
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.dll
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\MODAL.pdb
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.pdb
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.csprojResolveAssemblyReference.cache
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.dll
-C:\Users\NguyenHoanPC\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.pdb
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\CONTROL.dll
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\CONTROL.pdb
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\MODAL.dll
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.dll
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\MODAL.pdb
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\bin\Debug\DATA_ACCEST.pdb
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.csprojResolveAssemblyReference.cache
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.dll
-C:\Users\DELL\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\CONTROL\obj\Debug\CONTROL.pdb

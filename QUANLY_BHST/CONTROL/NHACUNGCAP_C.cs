@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MODEL.ENTITIES;
-using MODEL.FUNCTION;
+using MODAL.ENNITES;
+using MODAL.FUNSIONS;
 using System.Data;
 using System.Data.SqlClient;
 namespace CONTROL
