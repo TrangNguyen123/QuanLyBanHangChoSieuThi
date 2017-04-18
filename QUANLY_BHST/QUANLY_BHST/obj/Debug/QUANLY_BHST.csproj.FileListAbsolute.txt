@@ -55,7 +55,7 @@ E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.VIEW.FR_NHACUNGCAP
 E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.VIEW.FR_KHACHHANG.resources
 E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.VIEW.FR_NHANVIEN.resources
 E:\Visua stadio\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.ResolveComReference.cache
-C:\Users\HueLK\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.config
-C:\Users\HueLK\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.ResolveComReference.cache
-C:\Users\HueLK\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
-C:\Users\HueLK\Documents\GitHub\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
+C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.config
+C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.ResolveComReference.cache
+C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
+C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
