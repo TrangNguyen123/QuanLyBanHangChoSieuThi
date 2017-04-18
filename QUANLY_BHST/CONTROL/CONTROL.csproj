@@ -41,13 +41,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HANGHOA_C.cs" />
+    <Compile Include="KHACHHANG_C.cs" />
     <Compile Include="NHACUNGCAP_C.cs" />
+    <Compile Include="NHANVIEN_C.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MODAL\MODEL.csproj">
+    <ProjectReference Include="..\MODAL\MODAL.csproj">
       <Project>{4d385bc8-8127-4149-8918-d17bc30233c1}</Project>
-      <Name>MODEL</Name>
+      <Name>MODAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

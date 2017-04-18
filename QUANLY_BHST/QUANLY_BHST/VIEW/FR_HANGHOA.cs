@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CONTROL;
-using MODEL.ENTITIES;
+using MODAL.ENNITES;
 namespace QUANLY_BHST.VIEW
 {
     public partial class FR_HANGHOA : Form
