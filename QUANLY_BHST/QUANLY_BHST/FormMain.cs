@@ -16,10 +16,5 @@ namespace QUANLY_BHST
         {
             InitializeComponent();
         }
-
-        private void hàngHóaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
