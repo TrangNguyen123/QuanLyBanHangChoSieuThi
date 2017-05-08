@@ -16,7 +16,7 @@ namespace QUANLY_BHST
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FR_KHACHHANG());
+            Application.Run(new FR_HOADONBAN());
         }
     }
 }

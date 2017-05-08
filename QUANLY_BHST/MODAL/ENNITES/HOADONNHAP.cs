@@ -8,22 +8,11 @@ namespace MODAL.ENNITES
 {
     public class HOADONNHAP
     {
-        private string sohoadonnhap, manhanvien, manhacungcap;
+        private string mahoadon, manhanvien, manhacungcap;
         private DateTime ngaynhap;
         private float tongtienhoadonnhap;
+        private int sohoadonnhap;
         public HOADONNHAP() { }
-        public string Sohoadonnhap
-        {
-            get
-            {
-                return sohoadonnhap;
-            }
-
-            set
-            {
-                sohoadonnhap = value;
-            }
-        }
 
         public string Manhanvien
         {
@@ -76,13 +65,41 @@ namespace MODAL.ENNITES
                 tongtienhoadonnhap = value;
             }
         }
-        public HOADONNHAP(string sohoadonnhap, string manhanvien, string manhacungcap, DateTime ngaynhap, float tongtienhoadonnhap)
+
+        public int Sohoadonnhap
         {
-            sohoadonnhap = this.sohoadonnhap;
+            get
+            {
+                return sohoadonnhap;
+            }
+
+            set
+            {
+                sohoadonnhap = value;
+            }
+        }
+
+        public string Mahoadon
+        {
+            get
+            {
+                return mahoadon;
+            }
+
+            set
+            {
+                this.mahoadon = value;
+            }
+        }
+
+        public HOADONNHAP(string mahoadon, string manhanvien, string manhacungcap, DateTime ngaynhap, float tongtienhoadonnhap, int sohoahonnhap)
+        {
+            mahoadon = this.mahoadon;
             manhanvien = this.manhanvien;
             manhacungcap = this.manhacungcap;
             ngaynhap = this.ngaynhap;
             tongtienhoadonnhap = this.tongtienhoadonnhap;
+            sohoadonnhap = this.sohoadonnhap;
 
         }
     }

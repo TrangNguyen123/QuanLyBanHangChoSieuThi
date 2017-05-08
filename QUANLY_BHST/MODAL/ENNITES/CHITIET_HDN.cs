@@ -8,22 +8,10 @@ namespace MODAL.ENNITES
 {
     public class CHITIET_HDN
     {
-        private string sohoadonnhap, mavach;
+        private string mahoadon, mavach;
         private int soluong;
-        private float dongia, giamgia, thanhtien;
+        private float dongianhap, giamgia, thanhtien;
         public CHITIET_HDN() { }
-        public string Sohoadonnhap
-        {
-            get
-            {
-                return sohoadonnhap;
-            }
-
-            set
-            {
-                sohoadonnhap = value;
-            }
-        }
 
         public string Mavach
         {
@@ -51,18 +39,6 @@ namespace MODAL.ENNITES
             }
         }
 
-        public float Dongia
-        {
-            get
-            {
-                return dongia;
-            }
-
-            set
-            {
-                dongia = value;
-            }
-        }
 
         public float Giamgia
         {
@@ -89,14 +65,41 @@ namespace MODAL.ENNITES
                 thanhtien = value;
             }
         }
-        public CHITIET_HDN(string sohoadonnhap, string mavach, int soluong, float giamgia, float thanhtien, float dongia)
+
+        public string Mahoadon
         {
-            sohoadonnhap = this.sohoadonnhap;
+            get
+            {
+                return mahoadon;
+            }
+
+            set
+            {
+                this.mahoadon = value;
+            }
+        }
+
+        public float Dongianhap
+        {
+            get
+            {
+                return dongianhap;
+            }
+
+            set
+            {
+                dongianhap = value;
+            }
+        }
+
+        public CHITIET_HDN(string mahoadon, string mavach, int soluong, float giamgia, float thanhtien, float dongianhap)
+        {
+            mahoadon = this.mahoadon;
             mavach = this.mavach;
             giamgia = this.giamgia;
             thanhtien = this.thanhtien;
             soluong = this.soluong;
-            dongia = this.dongia;
+            dongianhap = this.dongianhap;
 
 
         }

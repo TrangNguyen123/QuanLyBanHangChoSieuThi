@@ -40,8 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CT_HOADONBAN.cs" />
+    <Compile Include="CT_HOADONBAN_C.cs" />
+    <Compile Include="CT_HOADONNHAP_C.cs" />
     <Compile Include="HANGHOA_C.cs" />
+    <Compile Include="HOADONBAN_C.cs" />
     <Compile Include="KHACHHANG_C.cs" />
     <Compile Include="NHACUNGCAP_C.cs" />
     <Compile Include="NHANVIEN_C.cs" />

@@ -70,6 +70,18 @@
     <Compile Include="VIEW\FR-NHACUNGCAP.Designer.cs">
       <DependentUpon>FR-NHACUNGCAP.cs</DependentUpon>
     </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDB.Designer.cs">
+      <DependentUpon>FR_CHITIET_HDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDN.Designer.cs">
+      <DependentUpon>FR_CHITIET_HDN.cs</DependentUpon>
+    </Compile>
     <Compile Include="VIEW\FR_HANGHOA.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +124,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\FR-NHACUNGCAP.resx">
       <DependentUpon>FR-NHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_CHITIET_HDB.resx">
+      <DependentUpon>FR_CHITIET_HDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_CHITIET_HDN.resx">
+      <DependentUpon>FR_CHITIET_HDN.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\FR_HANGHOA.resx">
       <DependentUpon>FR_HANGHOA.cs</DependentUpon>

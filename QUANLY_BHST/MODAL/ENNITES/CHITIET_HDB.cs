@@ -8,22 +8,10 @@ namespace MODAL.ENNITES
 {
     public class CHITIET_HDB
     {
-        private string sohoadonban, mavach;
+        private string mahoadon, mavach;
         private int soluong;
-        private float giamgia, thanhtien, dongia;
+        private float giamgia, thanhtien, dongiaban;
         public CHITIET_HDB() { }
-        public string Sohoadonban
-        {
-            get
-            {
-                return sohoadonban;
-            }
-
-            set
-            {
-                sohoadonban = value;
-            }
-        }
 
         public string Mavach
         {
@@ -77,26 +65,40 @@ namespace MODAL.ENNITES
             }
         }
 
-        public float Dongia
+        public float Dongiaban
         {
             get
             {
-                return dongia;
+                return dongiaban;
             }
 
             set
             {
-                dongia = value;
+                dongiaban = value;
             }
 
         }
-        public CHITIET_HDB(string sohoadonban, string mavach, int soluong, float giamgia, float thanhtien, float dongia)
+
+        public string Mahoadon
         {
-            sohoadonban = this.sohoadonban;
+            get
+            {
+                return mahoadon;
+            }
+
+            set
+            {
+                this.mahoadon = value;
+            }
+        }
+
+        public CHITIET_HDB(string mahoadon, string mavach, int soluong, float giamgia, float thanhtien, float dongiaban)
+        {
+            mahoadon = this.mahoadon;
             mavach = this.mavach;
             giamgia = this.giamgia;
             thanhtien = this.thanhtien;
-            dongia = this.dongia;
+            dongiaban = this.dongiaban;
             soluong = this.soluong;
 
         }

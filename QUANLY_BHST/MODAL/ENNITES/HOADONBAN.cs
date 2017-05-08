@@ -8,9 +8,10 @@ namespace MODAL.ENNITES
 {
     public class HOADONBAN
     {
-        private string sohoadonban, manhanvien, makhachhang;
+        private string mahoadon, manhanvien, makhachhang;
         private float tongtien;
         private DateTime ngayban;
+        private int sohoadonban;
         public HOADONBAN() { }
         public string Manhanvien
         {
@@ -22,19 +23,6 @@ namespace MODAL.ENNITES
             set
             {
                 manhanvien = value;
-            }
-        }
-
-        public string Sohoadonban
-        {
-            get
-            {
-                return sohoadonban;
-            }
-
-            set
-            {
-                sohoadonban = value;
             }
         }
 
@@ -76,13 +64,41 @@ namespace MODAL.ENNITES
                 ngayban = value;
             }
         }
-        public HOADONBAN(string sohoadonban, string manhanvien, string makhachhang, float tongtien, DateTime ngayban)
+
+        public int Sohoadonban
         {
-            sohoadonban = this.sohoadonban;
+            get
+            {
+                return sohoadonban;
+            }
+
+            set
+            {
+                sohoadonban = value;
+            }
+        }
+
+        public string Mahoadon
+        {
+            get
+            {
+                return mahoadon;
+            }
+
+            set
+            {
+                this.mahoadon = value;
+            }
+        }
+
+        public HOADONBAN(string mahoadon, string manhanvien, string makhachhang, float tongtien, DateTime ngayban, int sohoadonban)
+        {
+            mahoadon = this.mahoadon;
             makhachhang = this.makhachhang;
             manhanvien = this.manhanvien;
             tongtien = this.tongtien;
             ngayban = this.ngayban;
+            sohoadonban = this.sohoadonban;
         }
     }
 }
