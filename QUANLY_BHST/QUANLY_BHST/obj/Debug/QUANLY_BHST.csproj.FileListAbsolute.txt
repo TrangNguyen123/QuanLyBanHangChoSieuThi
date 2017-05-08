@@ -59,3 +59,7 @@ C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.confi
 C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.ResolveComReference.cache
 C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
 C:\Users\MrHoang\Desktop\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
+C:\Users\DELL\Documents\GitHub\Hoàng\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\bin\Debug\QUANLY_BHST.exe.config
+C:\Users\DELL\Documents\GitHub\Hoàng\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.csproj.ResolveComReference.cache
+C:\Users\DELL\Documents\GitHub\Hoàng\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.exe
+C:\Users\DELL\Documents\GitHub\Hoàng\QuanLyBanHangChoSieuThi\QUANLY_BHST\QUANLY_BHST\obj\Debug\QUANLY_BHST.pdb
