@@ -1,0 +1,12 @@
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\MODAL.dll.config
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\MODAL.dll
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\MODAL.pdb
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\DATA_ACCEST.dll
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.dll
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\DATA_ACCEST.pdb
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.xml
+E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visua stadio\QUANLY_BHST\MODAL\obj\Debug\MODAL.csprojResolveAssemblyReference.cache
+E:\Visua stadio\QUANLY_BHST\MODAL\obj\Debug\MODAL.dll
+E:\Visua stadio\QUANLY_BHST\MODAL\obj\Debug\MODAL.pdb
