@@ -16,7 +16,7 @@ namespace QUANLY_BHST.VIEW
     {
         KHACHHANG_C Obj_c = new KHACHHANG_C();
         KHACHHANG Obj = new KHACHHANG();
-        int flag=0;
+        int flag = 0;
         public FR_KHACHHANG()
         {
             InitializeComponent();
