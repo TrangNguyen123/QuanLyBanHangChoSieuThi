@@ -86,7 +86,7 @@
             this.label8.Size = new System.Drawing.Size(52, 15);
             this.label8.TabIndex = 68;
             this.label8.Text = "Bằng chữ";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
+//            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // LbBangchu
             // 
@@ -96,7 +96,7 @@
             this.LbBangchu.Size = new System.Drawing.Size(33, 15);
             this.LbBangchu.TabIndex = 69;
             this.LbBangchu.Text = "VNĐ";
-            this.LbBangchu.Click += new System.EventHandler(this.LbBangchu_Click);
+        //    this.LbBangchu.Click += new System.EventHandler(this.LbBangchu_Click);
             // 
             // txtMaHDB
             // 
@@ -184,7 +184,7 @@
             this.groupBox3.TabIndex = 71;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Tổng Tiền";
-            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
+      //      this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
             // 
             // btnHuy
             // 

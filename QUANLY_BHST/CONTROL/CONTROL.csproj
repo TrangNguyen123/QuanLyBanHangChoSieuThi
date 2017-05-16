@@ -44,6 +44,7 @@
     <Compile Include="CT_HOADONNHAP_C.cs" />
     <Compile Include="HANGHOA_C.cs" />
     <Compile Include="HOADONBAN_C.cs" />
+    <Compile Include="HOADONNHAP_C.cs" />
     <Compile Include="KHACHHANG_C.cs" />
     <Compile Include="NHACUNGCAP_C.cs" />
     <Compile Include="NHANVIEN_C.cs" />

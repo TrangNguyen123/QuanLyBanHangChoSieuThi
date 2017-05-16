@@ -63,6 +63,7 @@
     <Compile Include="FUNSIONS\CT_HOADONNHAP_M.cs" />
     <Compile Include="FUNSIONS\HOADONBAN_M.cs" />
     <Compile Include="FUNSIONS\HANGHOA_M.cs" />
+    <Compile Include="FUNSIONS\HOADONNHAP_M.cs" />
     <Compile Include="FUNSIONS\KHACHHANG_M.cs" />
     <Compile Include="FUNSIONS\NHACUNGCAP_M.cs" />
     <Compile Include="FUNSIONS\NHANVIEN_M.cs" />

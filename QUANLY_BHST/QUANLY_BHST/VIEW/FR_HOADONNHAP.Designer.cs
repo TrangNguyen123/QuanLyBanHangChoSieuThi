@@ -59,6 +59,8 @@
             this.btnHuy = new System.Windows.Forms.ToolStripButton();
             this.btnLuu = new System.Windows.Forms.ToolStripButton();
             this.label6 = new System.Windows.Forms.Label();
+            this.Ckchu = new System.Windows.Forms.CheckBox();
+            this.LbBangchu = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvHDBan)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -103,9 +105,9 @@
             this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(339, 5);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(192, 24);
+            this.label1.Size = new System.Drawing.Size(203, 24);
             this.label1.TabIndex = 59;
-            this.label1.Text = "Hóa Đơn Bán  Hàng";
+            this.label1.Text = "Hóa Đơn Nhập  Hàng";
             // 
             // groupBox1
             // 
@@ -128,6 +130,8 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.Ckchu);
+            this.groupBox3.Controls.Add(this.LbBangchu);
             this.groupBox3.Controls.Add(this.txttongtien);
             this.groupBox3.Controls.Add(this.label10);
             this.groupBox3.Controls.Add(this.label8);
@@ -279,6 +283,7 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(82, 22);
             this.btnThem.Text = "Thêm Mới";
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // toolStripSeparator5
             // 
@@ -292,6 +297,7 @@
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(85, 22);
             this.btnSua.Text = "Sửa dữ liệu";
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // toolStripSeparator6
             // 
@@ -305,6 +311,7 @@
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(90, 22);
             this.btnXoa.Text = "Xóa Dữ Liệu";
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // toolStripSeparator7
             // 
@@ -318,6 +325,7 @@
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(118, 22);
             this.btnHuy.Text = "Bỏ Qua Thao Tác";
+            this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
             // btnLuu
             // 
@@ -326,6 +334,7 @@
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(90, 22);
             this.btnLuu.Text = "Lưu Dữ Liệu";
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // label6
             // 
@@ -336,6 +345,25 @@
             this.label6.Size = new System.Drawing.Size(51, 15);
             this.label6.TabIndex = 62;
             this.label6.Text = "Số HDB:";
+            // 
+            // Ckchu
+            // 
+            this.Ckchu.AutoSize = true;
+            this.Ckchu.Location = new System.Drawing.Point(348, 28);
+            this.Ckchu.Name = "Ckchu";
+            this.Ckchu.Size = new System.Drawing.Size(15, 14);
+            this.Ckchu.TabIndex = 73;
+            this.Ckchu.UseVisualStyleBackColor = true;
+            this.Ckchu.CheckedChanged += new System.EventHandler(this.Ckchu_CheckedChanged);
+            // 
+            // LbBangchu
+            // 
+            this.LbBangchu.AutoSize = true;
+            this.LbBangchu.Location = new System.Drawing.Point(393, 27);
+            this.LbBangchu.Name = "LbBangchu";
+            this.LbBangchu.Size = new System.Drawing.Size(33, 15);
+            this.LbBangchu.TabIndex = 72;
+            this.LbBangchu.Text = "VNĐ";
             // 
             // FR_HOADONNHAP
             // 
@@ -395,5 +423,7 @@
         private System.Windows.Forms.ToolStripButton btnHuy;
         private System.Windows.Forms.ToolStripButton btnLuu;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.CheckBox Ckchu;
+        private System.Windows.Forms.Label LbBangchu;
     }
 }

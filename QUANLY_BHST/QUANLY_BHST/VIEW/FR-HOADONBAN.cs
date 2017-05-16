@@ -336,20 +336,7 @@ namespace QUANLY_BHST.VIEW
             FR_HOADONBAN_Load(sender, e);
         }
 
-        private void groupBox3_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LbBangchu_Click(object sender, EventArgs e)
-        {
-
-        }
+     
 
         private void Ckchu_CheckedChanged(object sender, EventArgs e)
         {
