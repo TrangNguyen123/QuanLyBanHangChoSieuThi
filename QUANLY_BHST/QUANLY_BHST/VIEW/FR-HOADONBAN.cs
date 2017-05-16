@@ -32,7 +32,7 @@ namespace QUANLY_BHST.VIEW
             Bingding();
 
         }
-      
+
         private void Bingding()
         {
             txtMaHDB.DataBindings.Clear();
@@ -250,7 +250,7 @@ namespace QUANLY_BHST.VIEW
             mTemp = mTemp.Substring(0, 1).ToUpper() + mTemp.Substring(1) + " đồng";
             return mTemp;
         }
-        
+
         private void btnThem_Click(object sender, EventArgs e)
         {
             flag = 0;
@@ -264,7 +264,7 @@ namespace QUANLY_BHST.VIEW
             Dis_End(true);
             Loat_KH();
             Loat_NV();
-            
+
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
@@ -353,7 +353,8 @@ namespace QUANLY_BHST.VIEW
 
         private void Ckchu_CheckedChanged(object sender, EventArgs e)
         {
-            if (Ckchu.Checked){
+            if (Ckchu.Checked)
+            {
                 LbBangchu.Text = ChuyenSoSangChu(txttongtien.Text).ToString();
             }
         }

@@ -22,7 +22,7 @@ namespace CONTROL
         public bool Up_Obj(HOADONBAN Obj)
         {
             return obj_m.Up_Obj(Obj);
-        }      
+        }
         public bool Del_Obj(string Obj)
         {
             return obj_m.Del_Obj(Obj);
