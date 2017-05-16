@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9FF3F2BD-0F00-4657-AD7D-BBA8920E2A01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QUANLY_BHST</RootNamespace>
+    <AssemblyName>QUANLY_BHST</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VIEW\FR-HOADONBAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR-HOADONBAN.Designer.cs">
+      <DependentUpon>FR-HOADONBAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR-NHACUNGCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR-NHACUNGCAP.Designer.cs">
+      <DependentUpon>FR-NHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDB.Designer.cs">
+      <DependentUpon>FR_CHITIET_HDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_CHITIET_HDN.Designer.cs">
+      <DependentUpon>FR_CHITIET_HDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_HANGHOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_HANGHOA.Designer.cs">
+      <DependentUpon>FR_HANGHOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_HOADONNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_HOADONNHAP.Designer.cs">
+      <DependentUpon>FR_HOADONNHAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_KHACHHANG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_KHACHHANG.Designer.cs">
+      <DependentUpon>FR_KHACHHANG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FR_NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FR_NHANVIEN.Designer.cs">
+      <DependentUpon>FR_NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VIEW\FR-HOADONBAN.resx">
+      <DependentUpon>FR-HOADONBAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR-NHACUNGCAP.resx">
+      <DependentUpon>FR-NHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_CHITIET_HDB.resx">
+      <DependentUpon>FR_CHITIET_HDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_CHITIET_HDN.resx">
+      <DependentUpon>FR_CHITIET_HDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_HANGHOA.resx">
+      <DependentUpon>FR_HANGHOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_HOADONNHAP.resx">
+      <DependentUpon>FR_HOADONNHAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_KHACHHANG.resx">
+      <DependentUpon>FR_KHACHHANG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FR_NHANVIEN.resx">
+      <DependentUpon>FR_NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CONTROL\CONTROL.csproj">
+      <Project>{dbc28821-2788-43bb-bab9-8820d5cd524b}</Project>
+      <Name>CONTROL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DATA_ACCEST\DATA_ACCEST.csproj">
+      <Project>{7d6c7b6b-86d7-4655-8ea8-fd48341c7c23}</Project>
+      <Name>DATA_ACCEST</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODAL\MODAL.csproj">
+      <Project>{4d385bc8-8127-4149-8918-d17bc30233c1}</Project>
+      <Name>MODAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

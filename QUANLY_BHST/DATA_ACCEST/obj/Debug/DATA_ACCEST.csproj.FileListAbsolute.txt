@@ -1,0 +1,5 @@
+E:\Visua stadio\QUANLY_BHST\DATA_ACCEST\bin\Debug\DATA_ACCEST.dll
+E:\Visua stadio\QUANLY_BHST\DATA_ACCEST\bin\Debug\DATA_ACCEST.pdb
+E:\Visua stadio\QUANLY_BHST\DATA_ACCEST\obj\Debug\DATA_ACCEST.csprojResolveAssemblyReference.cache
+E:\Visua stadio\QUANLY_BHST\DATA_ACCEST\obj\Debug\DATA_ACCEST.dll
+E:\Visua stadio\QUANLY_BHST\DATA_ACCEST\obj\Debug\DATA_ACCEST.pdb
