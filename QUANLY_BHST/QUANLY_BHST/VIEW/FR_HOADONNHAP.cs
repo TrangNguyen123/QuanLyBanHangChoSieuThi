@@ -36,7 +36,7 @@ namespace QUANLY_BHST.VIEW
             cmbTenNHV.DataBindings.Clear();
             cmbTenNHV.DataBindings.Add("Text", dgvHDBan.DataSource, "tennhanvien");
             cmbNCC.DataBindings.Clear();
-            cmbNCC.DataBindings.Add("Text", dgvHDBan.DataSource, "tennhacaungcap");
+            cmbNCC.DataBindings.Add("Text", dgvHDBan.DataSource, "tennhacungcap");
             txttongtien.DataBindings.Clear();
             txttongtien.DataBindings.Add("Text", dgvHDBan.DataSource, "tongtienhoadonnhap");
             dtpngaynhap.DataBindings.Clear();

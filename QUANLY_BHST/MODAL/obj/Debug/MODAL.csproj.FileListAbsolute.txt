@@ -10,3 +10,15 @@ E:\Visua stadio\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.SqlServer.xml
 E:\Visua stadio\QUANLY_BHST\MODAL\obj\Debug\MODAL.csprojResolveAssemblyReference.cache
 E:\Visua stadio\QUANLY_BHST\MODAL\obj\Debug\MODAL.dll
 E:\Visua stadio\QUANLY_BHST\MODAL\obj\Debug\MODAL.pdb
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\MODAL.dll.config
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\MODAL.dll
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\MODAL.pdb
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\DATA_ACCEST.dll
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\DATA_ACCEST.pdb
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\obj\Debug\MODAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\obj\Debug\MODAL.dll
+C:\Users\DELL\Desktop\Thuctapnhom\QuanLyBanHangChoSieuThi\QUANLY_BHST\MODAL\obj\Debug\MODAL.pdb
