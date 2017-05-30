@@ -37,6 +37,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.Ckchu = new System.Windows.Forms.CheckBox();
+            this.LbBangchu = new System.Windows.Forms.Label();
             this.txttongtien = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -59,8 +61,6 @@
             this.btnHuy = new System.Windows.Forms.ToolStripButton();
             this.btnLuu = new System.Windows.Forms.ToolStripButton();
             this.label6 = new System.Windows.Forms.Label();
-            this.Ckchu = new System.Windows.Forms.CheckBox();
-            this.LbBangchu = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvHDBan)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -142,6 +142,26 @@
             this.groupBox3.TabIndex = 71;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Tổng Tiền";
+//            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
+            // 
+            // Ckchu
+            // 
+            this.Ckchu.AutoSize = true;
+            this.Ckchu.Location = new System.Drawing.Point(348, 28);
+            this.Ckchu.Name = "Ckchu";
+            this.Ckchu.Size = new System.Drawing.Size(15, 14);
+            this.Ckchu.TabIndex = 73;
+            this.Ckchu.UseVisualStyleBackColor = true;
+            this.Ckchu.CheckedChanged += new System.EventHandler(this.Ckchu_CheckedChanged);
+            // 
+            // LbBangchu
+            // 
+            this.LbBangchu.AutoSize = true;
+            this.LbBangchu.Location = new System.Drawing.Point(393, 27);
+            this.LbBangchu.Name = "LbBangchu";
+            this.LbBangchu.Size = new System.Drawing.Size(33, 15);
+            this.LbBangchu.TabIndex = 72;
+            this.LbBangchu.Text = "VNĐ";
             // 
             // txttongtien
             // 
@@ -242,6 +262,7 @@
             this.btnInHoaDon.Name = "btnInHoaDon";
             this.btnInHoaDon.Size = new System.Drawing.Size(80, 22);
             this.btnInHoaDon.Text = "In Dữ Liệu";
+            this.btnInHoaDon.Click += new System.EventHandler(this.btnInHoaDon_Click);
             // 
             // toolStripSeparator8
             // 
@@ -345,25 +366,6 @@
             this.label6.Size = new System.Drawing.Size(51, 15);
             this.label6.TabIndex = 62;
             this.label6.Text = "Số HDB:";
-            // 
-            // Ckchu
-            // 
-            this.Ckchu.AutoSize = true;
-            this.Ckchu.Location = new System.Drawing.Point(348, 28);
-            this.Ckchu.Name = "Ckchu";
-            this.Ckchu.Size = new System.Drawing.Size(15, 14);
-            this.Ckchu.TabIndex = 73;
-            this.Ckchu.UseVisualStyleBackColor = true;
-            this.Ckchu.CheckedChanged += new System.EventHandler(this.Ckchu_CheckedChanged);
-            // 
-            // LbBangchu
-            // 
-            this.LbBangchu.AutoSize = true;
-            this.LbBangchu.Location = new System.Drawing.Point(393, 27);
-            this.LbBangchu.Name = "LbBangchu";
-            this.LbBangchu.Size = new System.Drawing.Size(33, 15);
-            this.LbBangchu.TabIndex = 72;
-            this.LbBangchu.Text = "VNĐ";
             // 
             // FR_HOADONNHAP
             // 

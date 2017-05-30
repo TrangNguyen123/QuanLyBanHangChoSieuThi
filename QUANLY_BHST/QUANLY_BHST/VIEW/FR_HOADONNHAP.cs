@@ -340,5 +340,12 @@ namespace QUANLY_BHST.VIEW
                 LbBangchu.Text = ChuyenSoSangChu(txttongtien.Text).ToString();
             }
         }
+
+        private void btnInHoaDon_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Chức năng đang được nâng cao", "In", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+      
+        
     }
 }
