@@ -158,5 +158,7 @@ namespace QUANLY_BHST.VIEW
             }
             FR_NHACUNGCAP_Load(sender, e);
         }
+
+
     }
 }
