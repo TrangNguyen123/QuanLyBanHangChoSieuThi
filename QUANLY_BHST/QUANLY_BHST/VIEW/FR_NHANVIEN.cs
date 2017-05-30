@@ -179,9 +179,6 @@ namespace QUANLY_BHST.VIEW
             FR_NHANVIEN_Load(sender, e);
         }
 
-        private void txtDiachi_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+     
     }
 }

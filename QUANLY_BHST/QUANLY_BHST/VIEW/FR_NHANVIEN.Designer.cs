@@ -250,6 +250,7 @@
             this.txtChucvu.Size = new System.Drawing.Size(791, 164);
             this.txtChucvu.TabIndex = 80;
             this.txtChucvu.TabStop = false;
+///            this.txtChucvu.Enter += new System.EventHandler(this.txtChucvu_Enter);
             // 
             // cmbGioitinh
             // 
@@ -321,7 +322,7 @@
             this.txtDiachi.Name = "txtDiachi";
             this.txtDiachi.Size = new System.Drawing.Size(134, 20);
             this.txtDiachi.TabIndex = 82;
-            this.txtDiachi.TextChanged += new System.EventHandler(this.txtDiachi_TextChanged);
+        //    this.txtDiachi.TextChanged += new System.EventHandler(this.txtDiachi_TextChanged);
             // 
             // txtTennhanvien
             // 
