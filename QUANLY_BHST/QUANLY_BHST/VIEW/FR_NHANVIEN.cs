@@ -83,6 +83,7 @@ namespace QUANLY_BHST.VIEW
             obj.Sodienthoai = mskDienthoai.Text.Trim();
             obj.Chucvu = textBox1.Text.Trim();
         }
+      
 
         private void Clear_Obj()
         {
@@ -176,6 +177,11 @@ namespace QUANLY_BHST.VIEW
 
             }
             FR_NHANVIEN_Load(sender, e);
+        }
+
+        private void txtDiachi_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

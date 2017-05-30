@@ -321,6 +321,7 @@
             this.txtDiachi.Name = "txtDiachi";
             this.txtDiachi.Size = new System.Drawing.Size(134, 20);
             this.txtDiachi.TabIndex = 82;
+            this.txtDiachi.TextChanged += new System.EventHandler(this.txtDiachi_TextChanged);
             // 
             // txtTennhanvien
             // 
