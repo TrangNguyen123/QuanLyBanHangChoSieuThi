@@ -198,5 +198,5 @@ namespace QUANLY_BHST.VIEW
             }
         }
     }
-    }
+}
 

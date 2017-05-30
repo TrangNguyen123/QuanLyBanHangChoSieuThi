@@ -179,6 +179,7 @@
             this.dgvHanghoa.Name = "dgvHanghoa";
             this.dgvHanghoa.Size = new System.Drawing.Size(906, 171);
             this.dgvHanghoa.TabIndex = 21;
+//            this.dgvHanghoa.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvHanghoa_CellContentClick);
             // 
             // mavach
             // 
@@ -244,6 +245,7 @@
             this.groupBox1.Size = new System.Drawing.Size(906, 179);
             this.groupBox1.TabIndex = 20;
             this.groupBox1.TabStop = false;
+  //          this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // bntTimkiem
             // 
