@@ -62,11 +62,6 @@ namespace QUANLY_BHST
             d.ShowDialog();
         }
 
-        private void quảnLýDanhSáchToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void MntNhaCungCap_Click(object sender, EventArgs e)
         {
             FR_NHACUNGCAP d = new FR_NHACUNGCAP();
@@ -77,6 +72,13 @@ namespace QUANLY_BHST
         {
             FR_KHACHHANG d = new FR_KHACHHANG();
             d.ShowDialog();
+        }
+
+        private void HuongdanchitietToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FromHelp d = new FromHelp();
+            d.ShowDialog();
+                 
         }
     }
 }

@@ -76,7 +76,7 @@
             this.label10.Size = new System.Drawing.Size(46, 15);
             this.label10.TabIndex = 70;
             this.label10.Text = "Bằng Số";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
+//this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label8
             // 

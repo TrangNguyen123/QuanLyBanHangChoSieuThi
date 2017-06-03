@@ -34,9 +34,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,6 +57,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FormMain.cs">
@@ -69,6 +79,12 @@
     </Compile>
     <Compile Include="VIEW\FR-NHACUNGCAP.Designer.cs">
       <DependentUpon>FR-NHACUNGCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW\FromHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW\FromHelp.Designer.cs">
+      <DependentUpon>FromHelp.cs</DependentUpon>
     </Compile>
     <Compile Include="VIEW\FR_CHITIET_HDB.cs">
       <SubType>Form</SubType>
@@ -124,6 +140,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\FR-NHACUNGCAP.resx">
       <DependentUpon>FR-NHACUNGCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW\FromHelp.resx">
+      <DependentUpon>FromHelp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="VIEW\FR_CHITIET_HDB.resx">
       <DependentUpon>FR_CHITIET_HDB.cs</DependentUpon>
